@@ -1,0 +1,5 @@
+C:\Users\nmri\Documents\shunsuke\JCOPE\JCOPE\obj\Debug\net7.0\JCOPE.csproj.AssemblyReference.cache
+C:\Users\nmri\Documents\shunsuke\JCOPE\JCOPE\obj\Debug\net7.0\JCOPE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmri\Documents\shunsuke\JCOPE\JCOPE\obj\Debug\net7.0\JCOPE.AssemblyInfoInputs.cache
+C:\Users\nmri\Documents\shunsuke\JCOPE\JCOPE\obj\Debug\net7.0\JCOPE.AssemblyInfo.cs
+C:\Users\nmri\Documents\shunsuke\JCOPE\JCOPE\obj\Debug\net7.0\JCOPE.csproj.CoreCompileInputs.cache
